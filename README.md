@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Goraki1994.
+- 👋 Hi there,nice to meet you. I’m @Goraki1994.
 - 👀 I’ve a fascination with ethical hacking, Linux and programming.
 - 🌱 I’m currently learning Python.
 <!---
